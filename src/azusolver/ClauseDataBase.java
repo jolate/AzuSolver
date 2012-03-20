@@ -19,6 +19,8 @@ public class ClauseDataBase {
     
     public static ArrayList[] bClauseDataBase = new ArrayList[AzuSolver.numVars*2+1];
     
+    public 
+    
     /*
      * The input clause which is read from the file, before insertion to the CDB
      */
